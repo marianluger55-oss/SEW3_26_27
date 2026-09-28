@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
+
 namespace AreaCalculation
 {
-    internal class Circle
+    class Circle
     {
         public double Radius { get; set; }
         public Circle(double radius)
