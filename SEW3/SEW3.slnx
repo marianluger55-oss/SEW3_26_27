@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="01_ClassLibrary/01_ClassLibrary.csproj" />
   <Project Path="02_FirstClassLibrary/02_FirstClassLibrary.csproj" />
+  <Project Path="FarmLib/FarmLib.csproj" Id="4032416e-a7ae-4567-837c-32f198a73571" />
+  <Project Path="HÜ1/FarmApp.csproj" Id="2a5b1d97-9170-42d6-9119-a8e73d563dfc" />
 </Solution>
