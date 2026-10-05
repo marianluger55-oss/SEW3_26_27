@@ -1,6 +1,14 @@
 <Solution>
   <Project Path="01_ClassLibrary/01_ClassLibrary.csproj" />
   <Project Path="02_FirstClassLibrary/02_FirstClassLibrary.csproj" />
+  <Project Path="03_2_Strings/03_2_Strings.csproj" Id="bf383f20-117d-4a2b-9a97-a6dd100cc07e" />
+  <Project Path="03_3_Strings/03_3_Strings.csproj" Id="355b4854-f086-42d0-8b17-ad6a1af3f2fe" />
+  <Project Path="03_4_Strings/03_4_Strings.csproj" Id="cebb702c-c1e6-4fb4-a195-26ac18d99b0c" />
+  <Project Path="03_6_Strings/03_6_Strings.csproj" Id="40c51ad0-d014-4bed-a39e-7732da3de83f" />
+  <Project Path="03_7_Strings/03_7_Strings.csproj" Id="6ee7f664-3e61-4251-aba6-5aab45746120" />
+  <Project Path="03_8_Strings/03_8_Strings.csproj" Id="35439693-767d-4a7c-86c1-b2d678d1bc54" />
+  <Project Path="03_9_Strings/03_9_Strings.csproj" Id="82075bdd-5d71-483c-8223-8441cc9e450d" />
+  <Project Path="03_Strings_/03_1_Strings.csproj" Id="3ad76495-db7a-41d0-abc7-f1495b6f478a" />
   <Project Path="FarmLib/FarmLib.csproj" Id="4032416e-a7ae-4567-837c-32f198a73571" />
   <Project Path="HÜ1/FarmApp.csproj" Id="2a5b1d97-9170-42d6-9119-a8e73d563dfc" />
 </Solution>
