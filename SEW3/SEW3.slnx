@@ -10,6 +10,7 @@
   <Project Path="03_8_Strings/03_8_Strings.csproj" Id="35439693-767d-4a7c-86c1-b2d678d1bc54" />
   <Project Path="03_9_Strings/03_9_Strings.csproj" Id="82075bdd-5d71-483c-8223-8441cc9e450d" />
   <Project Path="03_Strings_/03_1_Strings.csproj" Id="3ad76495-db7a-41d0-abc7-f1495b6f478a" />
+  <Project Path="04_Herbarium_Console/04_Herbarium_Console.csproj" Id="4bad262a-26ac-43b2-9ae8-592387cc9032" />
   <Project Path="FarmLib/FarmLib.csproj" Id="4032416e-a7ae-4567-837c-32f198a73571" />
   <Project Path="HUE2/HUE2.csproj" />
   <Project Path="HUE_2/HUE_2.csproj" Id="0a604739-bfd8-4c0a-8962-1631f4f3ccb3" />
