@@ -12,4 +12,10 @@
     <PackageReference Include="HerbariumLibrary" Version="1.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Presentation1.pptx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
