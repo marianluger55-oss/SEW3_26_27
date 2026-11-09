@@ -11,8 +11,11 @@
   <Project Path="03_9_Strings/03_9_Strings.csproj" Id="82075bdd-5d71-483c-8223-8441cc9e450d" />
   <Project Path="03_Strings_/03_1_Strings.csproj" Id="3ad76495-db7a-41d0-abc7-f1495b6f478a" />
   <Project Path="04_Herbarium_Console/04_Herbarium_Console.csproj" Id="4bad262a-26ac-43b2-9ae8-592387cc9032" />
+  <Project Path="04_Static_Average/04_Static_Average.csproj" Id="1b9306b4-a787-4093-8a70-df194068c596" />
+  <Project Path="05_CinemaTicket/05_CinemaTicket.csproj" Id="cf128323-8b76-417f-b222-1adbd7df5ce5" />
   <Project Path="FarmLib/FarmLib.csproj" Id="4032416e-a7ae-4567-837c-32f198a73571" />
   <Project Path="HUE2/HUE2.csproj" />
   <Project Path="HUE_2/HUE_2.csproj" Id="0a604739-bfd8-4c0a-8962-1631f4f3ccb3" />
   <Project Path="HÜ1/FarmApp.csproj" Id="2a5b1d97-9170-42d6-9119-a8e73d563dfc" />
+  <Project Path="Reactiontime/Reactiontime.csproj" Id="34bd4445-9e89-48ff-bc6c-e31a5046e6ed" />
 </Solution>
